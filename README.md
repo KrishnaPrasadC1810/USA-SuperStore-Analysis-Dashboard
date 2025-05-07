@@ -59,5 +59,5 @@ The goal of this dashboard is to provide interactive and data-driven insights in
 
 
 An interactive Tableau dashboard analyzing sales, profit, and return rates across categories, segments, and U.S. states using the Superstore dataset. It highlights key KPIs, top-selling products, and time-based sales trends to uncover actionable business insights.
-
+# 
 Thank you for taking the time to explore this project! 🙏
